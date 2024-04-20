@@ -1,2 +1,2 @@
 # ComputerGraphics3
-CG third lab using Glad, GLFW, OpenGL
+Used Glfw3 + Glad + openGL
