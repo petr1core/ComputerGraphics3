@@ -5,6 +5,11 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CompGraph3", "CompGraph3\CompGraph3.vcxproj", "{C040766D-326C-4828-8886-9FA52F006148}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{FA316E4F-94B0-45CD-8848-24BAD188CE02}"
+	ProjectSection(SolutionItems) = preProject
+		libs\glad\src\glad.c = libs\glad\src\glad.c
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

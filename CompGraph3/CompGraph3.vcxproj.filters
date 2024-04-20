@@ -18,5 +18,16 @@
     <ClCompile Include="CompGraph3.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="..\libs\glad\src\glad.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\shaders\fragment.shdr">
+      <Filter>Исходные файлы</Filter>
+    </None>
+    <None Include="..\shaders\vertex.shdr">
+      <Filter>Исходные файлы</Filter>
+    </None>
   </ItemGroup>
 </Project>
